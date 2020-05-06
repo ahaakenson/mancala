@@ -1,0 +1,5 @@
+Number of rounds played: 12
+Player    Average Score    Median Score    Minimum Score    Maximum Score    Extra Moves    
+Random    11.58            11.0            8                17               15             
+Strat     30.42            31.5            18               36               157            
+Both      21.00            17.5            
